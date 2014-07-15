@@ -26,7 +26,7 @@ fi
 
 # 从 github上克隆 vim 到 ~/.vim 
 echo "Cloning .vimrc file"
-hash git >/dev/null 2>&1 && git clone https://github.com/huzhirong/vim.git $VIM_DIR || {
+hash git >/dev/null 2>&1 && git clone https://github.com/csser2014/vim.git $VIM_DIR || {
     echo "git not Installed"
     exit
 }
