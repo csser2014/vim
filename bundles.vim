@@ -102,4 +102,7 @@ Bundle 'klen/python-mode'
 "vim-airline
 Bundle 'bling/vim-airline'
 
+"vim-snippets
+Bundle 'csser2014/vim-snippets'
+
 filetype plugin indent on
