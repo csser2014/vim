@@ -8,6 +8,6 @@ my vim config
 
 运行:
 
-curl -L https://raw.githubusercontent.com/csser2014/vim/master/install.sh | sh
+    curl -L https://raw.githubusercontent.com/csser2014/vim/master/install.sh | sh
 
 安装的目录为 `~/.vim`
